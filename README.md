@@ -1,4 +1,4 @@
-﻿# Travel-Agency
+﻿# Travel Agency
 
  I developed a tourism agency site that offers various tour options using HTML5 and CSS3.
 
